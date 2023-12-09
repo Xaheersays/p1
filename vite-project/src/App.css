@@ -66,4 +66,15 @@
   color: transparent;
 
 }
+/* .gradtext2{
+  background: -webkit-linear-gradient(
+    linear,
+    rgb(221, 15, 253) 0%,
+    rgb(244, 129, 68) 21%,
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+
+} */
   
