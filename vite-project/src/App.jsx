@@ -10,7 +10,7 @@ import Blog from './components/Blog/Blog.jsx'
 import Footer from './components/Footer/Footer.jsx'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>

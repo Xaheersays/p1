@@ -8,6 +8,7 @@ function WhatGpt() {
     pb-4
     pl-12
     pr-12 
+    w100
     mt-24'>
     <div className='bgg flex flex-col gap-10'>
         
@@ -33,10 +34,10 @@ function WhatGpt() {
             Explore the Library
             </div>
         </div>
-        <div className=' pl-16 pt-4 pr-8 flex gap-4'>
+        <div className=' pl-16 pt-4 pr-8 flex gap-4 flex-wrap'>
             <div className=' flex-1'>
                 
-                <div className='border-t-4 border-yellow-500 w-20  md:mt-8'></div>
+                <div className='border-t-4 border-yellow-500 w-20  '></div>
                 <div>
                     <p className='font-bold text-2xl '>Chatbots</p>
                     <p className='mt-2 gradient__text text-md font-semibold'>We so opinion friends me message as delight. Whole front do of plate heard oh ought.
@@ -44,7 +45,7 @@ function WhatGpt() {
                 </div>
             </div>
             <div className='flex-1'>
-                <div className='border-t-4 border-yellow-500 w-20 mt-8 '></div>
+                <div className='border-t-4 border-yellow-500 w-20   '></div>
                 <div>
                     <p className='font-bold text-2xl '>Knowledgebase</p>
                     <p className='mt-2 gradient__text text-md font-semibold'>At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments 
@@ -52,7 +53,7 @@ function WhatGpt() {
                 </div>
             </div>
             <div className=' flex-1'>
-                <div className='border-t-4 border-yellow-500 w-20 mt-8  '></div>
+                <div className='border-t-4 border-yellow-500 w-20   '></div>
                 <div>
                     <p className='font-bold text-2xl '>Education</p>
                     <p className='mt-2 mb-10 gradient__text text-md font-semibold'>At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b
