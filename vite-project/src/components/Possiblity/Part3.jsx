@@ -15,7 +15,7 @@ function Part3() {
                 <p className='text-3xl font-mono font-bold'>Register Today & start exploring the endless possibilities.</p>
             </div>
             <button className='bg-black text-white
-            w-44 p-5 rounded-full
+            w-44 p-5 rounded-full font-semibold
             '>Get Started</button>
         </div>
     </div>

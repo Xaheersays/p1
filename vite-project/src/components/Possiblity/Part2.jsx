@@ -17,9 +17,9 @@ function Part2() {
             </div>
             <div className=' flex flex-col gap-10 justify-end'>
                 <p className='text-xl font-mono font-semibold gradient__text'>Request Early Access to Get Started</p>
-                <p className='text-3xl font-bold bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 text-transparent bg-clip-text '>The possibilities are beyond your imagination</p>
-                <p className='text-xl font-mono gradient__text'>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-                <p className='text-2xl text-orange-700'>Request Early Access to Get Started</p>
+                <p className=' pb-3 text-5xl font-bold bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 text-transparent bg-clip-text '>The possibilities are beyond your imagination</p>
+                <p className='text-xl font-mono gradient__text '>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+                <p className='text-2xl  text-orange-700'>Request Early Access to Get Started</p>
 
             </div>
         </div>
