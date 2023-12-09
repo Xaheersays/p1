@@ -41,3 +41,29 @@
 .hht{
   height: 65rem;
 }
+
+
+.gradient-text{
+  background-color: (89.97deg, #AE67FA 1.84%, #F49867 102.67%)
+};
+.gradient-bar{
+  background-color: (103.22deg, #AE67FA -13.86%, #F49867 99.55%);
+} 
+
+.bgg{
+  background-color: #042c54;
+}
+.gradtext{
+  background: -webkit-radial-gradient(
+    circle,
+    rgb(225, 224, 242) 0%,
+    rgb(244, 129, 68) 21%,
+    rgb(216, 234, 112) 51%,
+    rgba(0, 255, 113, 1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+
+}
+  

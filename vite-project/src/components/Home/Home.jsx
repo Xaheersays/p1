@@ -11,13 +11,14 @@ function Home() {
         pb-4
         pl-12
         pr-12 
+        mt-24
         '>
         <div className='flex flex-col gap-12  
         md:w-1/4
         flex-1
 
         ' >
-            <h2 className=' font-bold text-6xl gradient__text md:leading-[6rem]'>
+            <h2 className=' font-bold text-6xl gradient__text md:leading-[6rem] '>
             Let's Build Something amazing with GPT-3 OpenAI
             </h2>
             <p className=' gradient__text text-xl'>
